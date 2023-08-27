@@ -7,9 +7,6 @@ $ helm repo add helm-wind https://raw.githubusercontent.com/phonginreallife/char
 # Search for charts, or list all the charts by repo's name
 $ helm search repo wind
 
-NAME                	  CHART        VERSION	        	DESCRIPTION
-helm-wind/to-do-app	    0.1.0        	1.0.0      	    A Helm chart for Kubernetes
-
 # Get configurations (values file)
 $ helm show values helm-wind/to-do-app > myvalues.yaml
 
