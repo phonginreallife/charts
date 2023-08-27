@@ -1,6 +1,7 @@
 "# charts" 
 # Add repo before using
 $ helm repo add helm-wind https://raw.githubusercontent.com/phonginreallife/charts/master/
+
 "helm-wind" has been added to your repositories
 
 # Search for charts, or list all the charts by repo's name
